@@ -35,6 +35,7 @@ public class Main {
         // Its purpose is to determine if the argument passed to the method is
         // an even number or not.
         // return true if an even number, otherwise return false
+        // return true if an even number, otherwise return false
 
     }
 
